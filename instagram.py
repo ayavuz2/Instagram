@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import _sqlite3
-import time
+from time import time
 
 
 def createtable():
